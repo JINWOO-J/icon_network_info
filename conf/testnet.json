@@ -1,0 +1,19 @@
+{
+    "network_name": "testnet",
+    "network_alias": "Euljiro",
+    "nid": "0x2",
+    "channel": "icon_dex",
+    "crep_root_hash": "0x38ec404f0d0d90a9a8586eccf89e3e78de0d3c7580063b20823308e7f722cd12",
+    "api_endpoint": "https://test-ctz.solidwallet.io",
+    "tracker": "https://trackerdev.icon.foundation",
+    "transaction_fee": "on",
+    "score_audit": "on",
+    "switch_bh_versions": {
+        "0.1a": 0,
+        "0.3": 1,
+        "0.4": 10,
+        "0.5": 524360
+    },
+    "description": "Testnet for Exchanges",
+    "updated_time": "2020-01-20 16:17:10.540"
+}

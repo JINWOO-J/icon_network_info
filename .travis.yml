@@ -1,0 +1,36 @@
+language: python
+python:
+- '3.7'
+services:
+- docker
+git:
+  depth: false
+env:
+  global:
+  - IS_LOCAL=false
+  - secure: IWa1wnIUOUGJoXbWKQ/9leFj0EjRqTRO6uUuJAkBPNND1o43Kb+zWMj2gKNlF9e+ZQNPBYhPm7l8RL04QWkhLy+sBaLPICVvxzUBAHR998CHDWwwvjnkS7Y9ShV9K6jX6KNCW+y7zU+G3k7NJNSyWmFxwKC65MJ6Aq7N8JSC6MJyFZiqdgUmQy4D+hYptB6LlPmEabVDE/Ik8BzrklBVntk/Di770SPGnzINRmOh2qM9sIZeVYtRi5In8b48RBxZts2RKwKk5Neo2rOeB+DeZ/ScNJ25FU4WIuqjw1rb33LGGwQ57FduboRZI40R67mzZIbJFAdKkY6NaI0jJBC1LFDVXpcOWpIspR6JqexujceiijOkLufRk76zDmglJwgip0DfSwiYo0ZbqhVvlSkI8LXb8n3SAFdj8c59AF53+KRjaZP0cJTixWXdZaqVHQoLWAjl3mnlad0n9bweFxIC+qsxt0AF35ZHFlPHeo3LEcn6o9OEih55/9H02lXkHbHrM44jhy0RVy9GAQ0BwXGV4Zw2jtrT79OmVfEtVajJfrj+Iq5/2iveJYiNChYJEWDjEiG8i4ZBlYDVDsRPmtzCK7ZWCj9HAd4/L0C2yk36XRhxb/aNqO4f+I+t0WT8Ch6plDNg5tea5xZvlX3+XGByRayRFLh1Q+PYKF7+DS2az2U=
+  - secure: dJih5ENneKn6/8/QBuFH5gw4Gs/GmHQ059oFGrJY01/osbbvW5RGGjDAAMUJRkTxvJUY+/dv6ynYV3U7FLETaKeyhpGgntwiKHhJJi6epbVKeXgtt+41NNCgTxa8N7oq06t90e7dbPOjx9Q9oZ1fjPMgudHnhkPgAUOEeyB0D0sxvf3Oc8XzGn6pZlJWvPyUmVNBk0YTBWIgJg93n/Oj7bwwg8XVsLbf8g41zGs35OhtyCCQGwp9HDZWjV5pKsKXKmNqRj3zoqJbQ1J8I/6Ozh979emuQVhpgBYFlTAxD5/bMLUPCKkZG/zuBe7a/VCz+mxC05C7g/9UVhE4lU0YDzWiDws4NbZ1+2PnQbMhUYWUDZ09HdaQVZtE2ZIMG2uLEvNkW+aAcOSLeKiHQRvjjnx0xG39jv9bBCIwsti6r7zRr6HWGy6m42s4c6P60anIILRZSUUHqH5Y0PcR4Qx+Hig2UTne87fEcfzAwBQ1N84zGdyzcMUm0NaGl7IlVv2isDnp6RwzQeEKfuLS0Vd9hxwJHVUDvzd8JAsWjts3y7ukvgGR+LdW3K2jTWT7Y0QmWsXK7eXtGKhXxD8gSumRL03uzWNYdvGkGzUWslLhwDKTQX9vquNGgy6B0gTp8+2l17+Zc6A0X+vGdsbbnUXYOhIauZXAyQ2k1QldbShlDqA=
+  - secure: Bu+g4fdYRUQ4esvx8PR0a25/iKF3+muj5rY8AaQrLlzbth+ekP0sHv3drkG0ZEsMxfQatZHQGLvRhi428rFQo9AWLL8+rEraXJ62hOThv4jPP8hYc54rWcUkZqOgZH1CbvAt1+k1FpTOSpzTFwr7lMdfISWrgTbQ424CnTgk9f0SOsZG7v174pDd+PLY8z5UNZafpcAWmYQlrse3j8A+qGq4aMHlKZ6zOTUVTmoBu3D6wpVHa8Jb1MWj9oIGb/A9CGravy1HkwyVhZvl3Y7mygIvgJ+kTVU8n/Gn+ACEVOF5QyYAvnL94S8g1eU0gd90fHGkFA6XLkeuXMiTmWISvMqR/t5sKY0nWyx2aJQMDlcrPsShRptJUBG4aoapDD627OaOmfds7KCH+2FLgl40qC3ZPNTBmcwMuchKv0U+qXJmpURQHF6qSN3BE8P/rwolhRAWqQZoExXtpcylfrl1DBs7QlHIcpOwCvHVkK/r1BwnDesBIIZifyI+AFQTusRU03eL1+TkpDJKezNLrG8W95WXXKNKt6Em9Gf1WO5eazrcGhstcU2Z01cG2xNfLLW4tG+BPUgE0jjWZmAkGxXUcu6oKMWI3jX79jYcmXnvSLpow4iCFWRu4/zpGOf6cuTyCwpmI8R1VhSwluPRDgL+V0OU4AxHlgPQ9AwR0/D32Rg=
+branches:
+  only:
+  - master
+
+before_install:
+- if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "Not a PR, skipping" && exit; fi
+- pip3 install boto3
+
+
+script:
+- "./gen_network_info.py"
+
+after_success:
+- touch aaaa
+- git config --global user.email ${GIT_EMAIL}
+- git config --global user.name ${GIT_NAME}
+- git add README.md conf/*.json
+#- git add .
+- git status
+- git commit -am "Travis $TRAVIS_BUILD_NUMBER - auto commit [ci skip]"
+- git status
+- git remote set-url origin https://${GH_TOKEN}@github.com/JINWOO-J/icon_network_info.git
+- git push origin master
