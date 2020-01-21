@@ -30,6 +30,5 @@ after_success:
 - git add README.md conf/*.json
 - git status
 - git commit --message "Travis $TRAVIS_BUILD_NUMBER - auto commit [ci skip]"
-- git status
 - git remote set-url origin https://${GH_TOKEN}@github.com/JINWOO-J/icon_network_info.git
-- git push origin master
+- git push -u origin master
