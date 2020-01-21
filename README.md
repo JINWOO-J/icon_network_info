@@ -1,6 +1,10 @@
 # ICON Network info
     Describes information about the ICON network.
+<<<<<<< HEAD
 Generated on => 2020-01-21 11:33:55.479<br><br> 
+=======
+Generated on => 2020-01-21 02:26:45.011<br><br> 
+>>>>>>> 63f2f48ab2a7a884baab83fd69e8a1230e02623b
 # mainnet (mainnet) 
 ###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (49e69f5df3000799b30cbc6ac39f7f60) 
 |key|value| 
@@ -50,7 +54,11 @@ Generated on => 2020-01-21 11:33:55.479<br><br>
 |description|Testnet for DApps|
 |updated_time|2020-01-20 16:17:10.540|
 # zicon (Pagoda) 
+<<<<<<< HEAD
 ###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (40ae4bbdcd5b870cde944fc5141a22e2) 
+=======
+###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (b154d42ee504b6d50f59b1522a5c3ea0) 
+>>>>>>> 63f2f48ab2a7a884baab83fd69e8a1230e02623b
 |key|value| 
 |-----|-----|
 |network_name|zicon|
@@ -64,4 +72,8 @@ Generated on => 2020-01-21 11:33:55.479<br><br>
 |score_audit|off|
 |switch_bh_versions|{'0.1a': 0, '0.3': 1, '0.4': 1587271, '0.5': 3077345}|
 |description|TestNet for PReps|
+<<<<<<< HEAD
 |updated_time|2020-01-21 11:30:05.460|
+=======
+|updated_time|2020-01-21 02:26:39.277|
+>>>>>>> 63f2f48ab2a7a884baab83fd69e8a1230e02623b
