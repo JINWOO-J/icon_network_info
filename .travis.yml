@@ -29,7 +29,7 @@ after_success:
 - git config --global user.name ${GIT_NAME}
 - git add README.md conf/*.json
 - git status
-- git commit --allow-empty -m  "Travis $TRAVIS_BUILD_NUMBER - auto commit [ci skip]"
+- git commit --allow-empty -m  "Travis \#${TRAVIS_BUILD_NUMBER} - auto commit [ci skip]"
 - git push https://${GH_TOKEN}@github.com/JINWOO-J/icon_network_info.git HEAD:master
 #- git remote set-url origin https://${GH_TOKEN}@github.com/JINWOO-J/icon_network_info.git
 #- git push -u origin master
