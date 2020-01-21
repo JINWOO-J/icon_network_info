@@ -89,10 +89,10 @@ if __name__ == '__main__':
     updated_time = todaydate("log")
     for network in network_info:
         network['updated_time'] = updated_time
+
         network_now = network
         network_name = network.get("network_name")
         output_filename = f"{output_path}/{network_name}.json"
-
         network_prev = openJson(output_filename)
         added, removed, modified, same = dict_compare(network, network_prev)
         if added or removed or modified:
@@ -102,12 +102,13 @@ if __name__ == '__main__':
             kvPrint("modified element", modified, value_check=True)
             writeJson(output_filename, network)
             changed_list.append(output_filename)
-            md5hash = get_md5(output_filename)
-            md5_checksum_list.append({"filename": f"{download_url_prefix}/{network_name}.json", "md5_checksum": md5hash})
             print("\n")
         else:
             if network_prev:
                 network_now = network_prev
+
+        md5hash = get_md5(output_filename)
+        md5_checksum_list.append({"filename": f"{download_url_prefix}/{network_name}.json", "md5_checksum": md5hash})
         all_network_info.append(network_now)
 
     if len(md5_checksum_list) > 0:
