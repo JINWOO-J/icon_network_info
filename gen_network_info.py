@@ -73,7 +73,7 @@ network_info = [
             "0.4": 1587271,
             "0.5": 3077345
         },
-        "description": "TestNet for PReps a"
+        "description": "TestNet for PReps"
     },
 ]
 
