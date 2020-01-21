@@ -1,0 +1,19 @@
+{
+    "network_name": "mainnet",
+    "network_alias": "mainnet",
+    "nid": "0x1",
+    "channel": "icon_dex",
+    "crep_root_hash": "0xd421ad83f81a31abd7f6813bb6a3b92fa547bdb6d5abc98d2d0852c1a97bcca5",
+    "api_endpoint": "https://ctz.solidwallet.io",
+    "tracker": "https://tracker.solidwallet.io",
+    "transaction_fee": "on",
+    "score_audit": "on",
+    "switch_bh_versions": {
+        "0.1a": 0,
+        "0.3": 10324749,
+        "0.4": 12640761,
+        "0.5": 14473622
+    },
+    "description": "MainNet",
+    "updated_time": "2020-01-21 11:37:25.962"
+}

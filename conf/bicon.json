@@ -1,0 +1,19 @@
+{
+    "network_name": "bicon",
+    "network_alias": "Yeouido",
+    "nid": "0x3",
+    "channel": "icon_dex",
+    "crep_root_hash": "0xde237a62f194477289711818a75c3040f887b5854ea20683a7cde0947c20e436",
+    "api_endpoint": "https://bicon.net.solidwallet.io",
+    "tracker": "https://bicon.tracker.solidwallet.io",
+    "transaction_fee": "on",
+    "score_audit": "off",
+    "switch_bh_versions": {
+        "0.1a": 0,
+        "0.3": 8328000,
+        "0.4": 8328100,
+        "0.5": 8882950
+    },
+    "description": "Testnet for DApps",
+    "updated_time": "2020-01-21 11:37:25.962"
+}

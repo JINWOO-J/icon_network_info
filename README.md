@@ -1,12 +1,8 @@
 # ICON Network info
     Describes information about the ICON network.
-<<<<<<< HEAD
-Generated on => 2020-01-21 11:33:55.479<br><br> 
-=======
-Generated on => 2020-01-21 02:26:45.011<br><br> 
->>>>>>> 63f2f48ab2a7a884baab83fd69e8a1230e02623b
+Generated on => 2020-01-21 11:37:28.817<br><br> 
 # mainnet (mainnet) 
-###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (49e69f5df3000799b30cbc6ac39f7f60) 
+###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (90fc47d9430e705f17c0ccd59c2c02a2) 
 |key|value| 
 |-----|-----|
 |network_name|mainnet|
@@ -20,9 +16,9 @@ Generated on => 2020-01-21 02:26:45.011<br><br>
 |score_audit|on|
 |switch_bh_versions|{'0.1a': 0, '0.3': 10324749, '0.4': 12640761, '0.5': 14473622}|
 |description|MainNet|
-|updated_time|2020-01-20 16:17:10.540|
+|updated_time|2020-01-21 11:37:25.962|
 # testnet (Euljiro) 
-###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (9a6364b420969ada7c0cc285fb3f177e) 
+###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (93d50ac20a88a7879fb621baf15235f1) 
 |key|value| 
 |-----|-----|
 |network_name|testnet|
@@ -36,9 +32,9 @@ Generated on => 2020-01-21 02:26:45.011<br><br>
 |score_audit|on|
 |switch_bh_versions|{'0.1a': 0, '0.3': 1, '0.4': 10, '0.5': 524360}|
 |description|Testnet for Exchanges|
-|updated_time|2020-01-20 16:17:10.540|
+|updated_time|2020-01-21 11:37:25.962|
 # bicon (Yeouido) 
-###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (cf4d6d7648afc7a96d378a7c81244364) 
+###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (5120d287854cfb2e2988c69f26d31a81) 
 |key|value| 
 |-----|-----|
 |network_name|bicon|
@@ -52,13 +48,9 @@ Generated on => 2020-01-21 02:26:45.011<br><br>
 |score_audit|off|
 |switch_bh_versions|{'0.1a': 0, '0.3': 8328000, '0.4': 8328100, '0.5': 8882950}|
 |description|Testnet for DApps|
-|updated_time|2020-01-20 16:17:10.540|
+|updated_time|2020-01-21 11:37:25.962|
 # zicon (Pagoda) 
-<<<<<<< HEAD
-###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (40ae4bbdcd5b870cde944fc5141a22e2) 
-=======
-###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (b154d42ee504b6d50f59b1522a5c3ea0) 
->>>>>>> 63f2f48ab2a7a884baab83fd69e8a1230e02623b
+###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (eed9e999a78152e1cd024771c1f914b4) 
 |key|value| 
 |-----|-----|
 |network_name|zicon|
@@ -72,8 +64,4 @@ Generated on => 2020-01-21 02:26:45.011<br><br>
 |score_audit|off|
 |switch_bh_versions|{'0.1a': 0, '0.3': 1, '0.4': 1587271, '0.5': 3077345}|
 |description|TestNet for PReps|
-<<<<<<< HEAD
-|updated_time|2020-01-21 11:30:05.460|
-=======
-|updated_time|2020-01-21 02:26:39.277|
->>>>>>> 63f2f48ab2a7a884baab83fd69e8a1230e02623b
+|updated_time|2020-01-21 11:37:25.962|
