@@ -19,7 +19,6 @@ before_install:
 - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then echo "Not a PR, skipping" && exit; fi'
 - pip3 install boto3
 
-
 script:
 - "./gen_network_info.py"
 
