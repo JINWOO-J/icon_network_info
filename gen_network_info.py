@@ -19,7 +19,7 @@ network_info = [
             "0.4": 12640761,
             "0.5": 14473622
         },
-        "description": "MainNet"
+        "description": "MainNet "
     },
     {
         "network_name": "testnet",
@@ -37,7 +37,7 @@ network_info = [
             "0.4": 10,
             "0.5": 524360
         },
-        "description": "Testnet for Exchanges"
+        "description": "Testnet for Exchanges "
     },
     {
         "network_name": "bicon",
@@ -55,7 +55,7 @@ network_info = [
             "0.4": 8328100,
             "0.5": 8882950
         },
-        "description": "Testnet for DApps"
+        "description": "Testnet for DApps "
     },
     {
         "network_name": "zicon",
@@ -73,7 +73,7 @@ network_info = [
             "0.4": 1587271,
             "0.5": 3077345
         },
-        "description": "TestNet for PReps"
+        "description": "TestNet for PReps "
     },
 ]
 
