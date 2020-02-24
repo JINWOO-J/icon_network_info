@@ -284,6 +284,6 @@ if __name__ == '__main__':
         readme_tail += "|key|value| \n"
         readme_tail += "|-----|-----|\n"
         for key, value in network_info.items():
-            readme_tail += f"|{key}|{value}|\n"
+            readme_tail += f"|{key}|{pretty(value, htchar='&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', lfchar='<br>')}|\n"
         # readme_tail += writer.dumps()
     writeFile("README.md", readme_header + "\n" + readme_tail)
