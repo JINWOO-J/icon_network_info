@@ -19,6 +19,41 @@ network_info = [
             "0.4": 12640761,
             "0.5": 14473622
         },
+        "package_version": [
+            "loopchain-2.5.1",
+            "iconservice-1.6.0",
+            "earlgrey-0.0.4",
+            "iconrpcserver-1.4.9",
+            "iconcommons-1.1.2",
+            "icon_rc v1.2.1"
+        ],
+        "package_info": {
+            "loopchain" : {
+                "url": "https://github.com/icon-project/loopchain",
+                "revision": "2.5.1"
+            },
+            "iconservice": {
+                "url": "https://github.com/icon-project/icon-service",
+                "revision": "v1.6.0"
+            },
+            "earlgrey": {
+                "url": "https://github.com/icon-project/earlgrey",
+                "revision": "bbca2974a2604e0a7f33341ed3fe7510bb6f4f90"
+            },
+            "iconrpcserver": {
+                "url": "https://github.com/icon-project/icon-rpc-server",
+                "revision": "1.4.9"
+            },
+            "iconcommons": {
+                "url": "https://github.com/icon-project/icon-commons",
+                "revision": "v1.1.2"
+            },
+            "icon_rc": {
+                "url": "https://github.com/icon-project/rewardcalculator",
+                "revision": "v1.2.1"
+            },
+        },
+        "docker_tag": "iconloop/prep-node:2001091813x7eba36",
         "description": "MainNet "
     },
     {
@@ -37,6 +72,41 @@ network_info = [
             "0.4": 10,
             "0.5": 524360
         },
+        "package_version": [
+            "loopchain-2.5.1",
+            "iconservice-1.6.0",
+            "earlgrey-0.0.4",
+            "iconrpcserver-1.4.9",
+            "iconcommons-1.1.2",
+            "icon_rc v1.2.1"
+        ],
+        "package_info": {
+            "loopchain" : {
+                "url": "https://github.com/icon-project/loopchain",
+                "revision": "2.5.1"
+            },
+            "iconservice": {
+                "url": "https://github.com/icon-project/icon-service",
+                "revision": "v1.6.0"
+            },
+            "earlgrey": {
+                "url": "https://github.com/icon-project/earlgrey",
+                "revision": "bbca2974a2604e0a7f33341ed3fe7510bb6f4f90"
+            },
+            "iconrpcserver": {
+                "url": "https://github.com/icon-project/icon-rpc-server",
+                "revision": "1.4.9"
+            },
+            "iconcommons": {
+                "url": "https://github.com/icon-project/icon-commons",
+                "revision": "v1.1.2"
+            },
+            "icon_rc": {
+                "url": "https://github.com/icon-project/rewardcalculator",
+                "revision": "v1.2.1"
+            },
+        },
+        "docker_tag": "iconloop/prep-node:2001091813x7eba36-dev",
         "description": "Testnet for Exchanges "
     },
     {
@@ -55,6 +125,41 @@ network_info = [
             "0.4": 8328100,
             "0.5": 8882950
         },
+        "package_version": [
+            "loopchain-2.5.1",
+            "iconservice-1.6.0",
+            "earlgrey-0.0.4",
+            "iconrpcserver-1.4.9",
+            "iconcommons-1.1.2",
+            "icon_rc v1.2.1"
+        ],
+        "package_info": {
+            "loopchain" : {
+                "url": "https://github.com/icon-project/loopchain",
+                "revision": "2.5.1"
+            },
+            "iconservice": {
+                "url": "https://github.com/icon-project/icon-service",
+                "revision": "v1.6.0"
+            },
+            "earlgrey": {
+                "url": "https://github.com/icon-project/earlgrey",
+                "revision": "bbca2974a2604e0a7f33341ed3fe7510bb6f4f90"
+            },
+            "iconrpcserver": {
+                "url": "https://github.com/icon-project/icon-rpc-server",
+                "revision": "1.4.9"
+            },
+            "iconcommons": {
+                "url": "https://github.com/icon-project/icon-commons",
+                "revision": "v1.1.2"
+            },
+            "icon_rc": {
+                "url": "https://github.com/icon-project/rewardcalculator",
+                "revision": "v1.2.1"
+            },
+        },
+        "docker_tag": "iconloop/prep-node:2001091813x7eba36-dev",
         "description": "Testnet for DApps "
     },
     {
@@ -73,6 +178,41 @@ network_info = [
             "0.4": 1587271,
             "0.5": 3077345
         },
+        "package_version": [
+            "loopchain-2.5.1",
+            "iconservice-1.6.0",
+            "earlgrey-0.0.4",
+            "iconrpcserver-1.4.9",
+            "iconcommons-1.1.2",
+            "icon_rc v1.2.1"
+        ],
+        "package_info": {
+            "loopchain" : {
+                "url": "https://github.com/icon-project/loopchain",
+                "revision": "2.5.1"
+            },
+            "iconservice": {
+                "url": "https://github.com/icon-project/icon-service",
+                "revision": "v1.6.0"
+            },
+            "earlgrey": {
+                "url": "https://github.com/icon-project/earlgrey",
+                "revision": "bbca2974a2604e0a7f33341ed3fe7510bb6f4f90"
+            },
+            "iconrpcserver": {
+                "url": "https://github.com/icon-project/icon-rpc-server",
+                "revision": "1.4.9"
+            },
+            "iconcommons": {
+                "url": "https://github.com/icon-project/icon-commons",
+                "revision": "v1.1.2"
+            },
+            "icon_rc": {
+                "url": "https://github.com/icon-project/rewardcalculator",
+                "revision": "v1.2.1"
+            },
+        },
+        "docker_tag": "iconloop/prep-node:2001091813x7eba36-dev",
         "description": "TestNet for PReps"
     },
 ]

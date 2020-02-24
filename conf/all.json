@@ -15,8 +15,8 @@
             "0.4": 12640761,
             "0.5": 14473622
         },
-        "description": "MainNet",
-        "updated_time": "2020-01-21 11:37:25.962"
+        "description": "MainNet ",
+        "updated_time": "2020-01-21 15:26:57.743"
     },
     {
         "network_name": "testnet",
@@ -34,8 +34,8 @@
             "0.4": 10,
             "0.5": 524360
         },
-        "description": "Testnet for Exchanges",
-        "updated_time": "2020-01-21 11:37:25.962"
+        "description": "Testnet for Exchanges ",
+        "updated_time": "2020-01-21 15:26:41.450"
     },
     {
         "network_name": "bicon",
@@ -53,8 +53,8 @@
             "0.4": 8328100,
             "0.5": 8882950
         },
-        "description": "Testnet for DApps",
-        "updated_time": "2020-01-21 11:37:25.962"
+        "description": "Testnet for DApps ",
+        "updated_time": "2020-01-21 15:26:41.450"
     },
     {
         "network_name": "zicon",

@@ -1,8 +1,8 @@
 # ICON Network info
     Describes information about the ICON network.
-Generated on => 2020-01-21 11:37:28.817<br><br> 
+Generated on => 2020-01-21 15:27:01.023<br><br> 
 # mainnet (mainnet) 
-###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (90fc47d9430e705f17c0ccd59c2c02a2) 
+###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (e802da32410c1d98b1c811d01b98e3ea) 
 |key|value| 
 |-----|-----|
 |network_name|mainnet|
@@ -15,10 +15,10 @@ Generated on => 2020-01-21 11:37:28.817<br><br>
 |transaction_fee|on|
 |score_audit|on|
 |switch_bh_versions|{'0.1a': 0, '0.3': 10324749, '0.4': 12640761, '0.5': 14473622}|
-|description|MainNet|
-|updated_time|2020-01-21 11:37:25.962|
+|description|MainNet |
+|updated_time|2020-01-21 15:26:57.743|
 # testnet (Euljiro) 
-###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (93d50ac20a88a7879fb621baf15235f1) 
+###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (c73bb19c9dccf76049730664663cc8a3) 
 |key|value| 
 |-----|-----|
 |network_name|testnet|
@@ -31,10 +31,10 @@ Generated on => 2020-01-21 11:37:28.817<br><br>
 |transaction_fee|on|
 |score_audit|on|
 |switch_bh_versions|{'0.1a': 0, '0.3': 1, '0.4': 10, '0.5': 524360}|
-|description|Testnet for Exchanges|
-|updated_time|2020-01-21 11:37:25.962|
+|description|Testnet for Exchanges |
+|updated_time|2020-01-21 15:26:41.450|
 # bicon (Yeouido) 
-###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (5120d287854cfb2e2988c69f26d31a81) 
+###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (d4b31eb49ada60f9e6ba6d651bad0ee7) 
 |key|value| 
 |-----|-----|
 |network_name|bicon|
@@ -47,8 +47,8 @@ Generated on => 2020-01-21 11:37:28.817<br><br>
 |transaction_fee|on|
 |score_audit|off|
 |switch_bh_versions|{'0.1a': 0, '0.3': 8328000, '0.4': 8328100, '0.5': 8882950}|
-|description|Testnet for DApps|
-|updated_time|2020-01-21 11:37:25.962|
+|description|Testnet for DApps |
+|updated_time|2020-01-21 15:26:41.450|
 # zicon (Pagoda) 
 ###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (eed9e999a78152e1cd024771c1f914b4) 
 |key|value| 
