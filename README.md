@@ -1,8 +1,8 @@
 # ICON Network info
     Describes information about the ICON network.
-Generated on => 2020-01-21 15:27:01.023<br><br> 
+Generated on => 2020-02-24 12:03:44.879<br><br> 
 # mainnet (mainnet) 
-###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (e802da32410c1d98b1c811d01b98e3ea) 
+###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (d128c4336c879c8023cc3196c875f2dc) 
 |key|value| 
 |-----|-----|
 |network_name|mainnet|
@@ -15,10 +15,13 @@ Generated on => 2020-01-21 15:27:01.023<br><br>
 |transaction_fee|on|
 |score_audit|on|
 |switch_bh_versions|{'0.1a': 0, '0.3': 10324749, '0.4': 12640761, '0.5': 14473622}|
+|package_version|['loopchain-2.5.1', 'iconservice-1.6.0', 'earlgrey-0.0.4', 'iconrpcserver-1.4.9', 'iconcommons-1.1.2', 'icon_rc v1.2.1']|
+|package_info|{'loopchain': {'url': 'https://github.com/icon-project/loopchain', 'revision': '2.5.1'}, 'iconservice': {'url': 'https://github.com/icon-project/icon-service', 'revision': 'v1.6.0'}, 'earlgrey': {'url': 'https://github.com/icon-project/earlgrey', 'revision': 'bbca2974a2604e0a7f33341ed3fe7510bb6f4f90'}, 'iconrpcserver': {'url': 'https://github.com/icon-project/icon-rpc-server', 'revision': '1.4.9'}, 'iconcommons': {'url': 'https://github.com/icon-project/icon-commons', 'revision': 'v1.1.2'}, 'icon_rc': {'url': 'https://github.com/icon-project/rewardcalculator', 'revision': 'v1.2.1'}}|
+|docker_tag|iconloop/prep-node:2001091813x7eba36|
 |description|MainNet |
-|updated_time|2020-01-21 15:26:57.743|
+|updated_time|2020-02-24 12:03:34.832|
 # testnet (Euljiro) 
-###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (c73bb19c9dccf76049730664663cc8a3) 
+###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (6f31f79c71256c443bacd714a92d29d4) 
 |key|value| 
 |-----|-----|
 |network_name|testnet|
@@ -31,10 +34,13 @@ Generated on => 2020-01-21 15:27:01.023<br><br>
 |transaction_fee|on|
 |score_audit|on|
 |switch_bh_versions|{'0.1a': 0, '0.3': 1, '0.4': 10, '0.5': 524360}|
+|package_version|['loopchain-2.5.1', 'iconservice-1.6.0', 'earlgrey-0.0.4', 'iconrpcserver-1.4.9', 'iconcommons-1.1.2', 'icon_rc v1.2.1']|
+|package_info|{'loopchain': {'url': 'https://github.com/icon-project/loopchain', 'revision': '2.5.1'}, 'iconservice': {'url': 'https://github.com/icon-project/icon-service', 'revision': 'v1.6.0'}, 'earlgrey': {'url': 'https://github.com/icon-project/earlgrey', 'revision': 'bbca2974a2604e0a7f33341ed3fe7510bb6f4f90'}, 'iconrpcserver': {'url': 'https://github.com/icon-project/icon-rpc-server', 'revision': '1.4.9'}, 'iconcommons': {'url': 'https://github.com/icon-project/icon-commons', 'revision': 'v1.1.2'}, 'icon_rc': {'url': 'https://github.com/icon-project/rewardcalculator', 'revision': 'v1.2.1'}}|
+|docker_tag|iconloop/prep-node:2001091813x7eba36-dev|
 |description|Testnet for Exchanges |
-|updated_time|2020-01-21 15:26:41.450|
+|updated_time|2020-02-24 12:03:34.832|
 # bicon (Yeouido) 
-###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (d4b31eb49ada60f9e6ba6d651bad0ee7) 
+###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (587e3222697875d31821f30538630391) 
 |key|value| 
 |-----|-----|
 |network_name|bicon|
@@ -47,10 +53,13 @@ Generated on => 2020-01-21 15:27:01.023<br><br>
 |transaction_fee|on|
 |score_audit|off|
 |switch_bh_versions|{'0.1a': 0, '0.3': 8328000, '0.4': 8328100, '0.5': 8882950}|
+|package_version|['loopchain-2.5.1', 'iconservice-1.6.0', 'earlgrey-0.0.4', 'iconrpcserver-1.4.9', 'iconcommons-1.1.2', 'icon_rc v1.2.1']|
+|package_info|{'loopchain': {'url': 'https://github.com/icon-project/loopchain', 'revision': '2.5.1'}, 'iconservice': {'url': 'https://github.com/icon-project/icon-service', 'revision': 'v1.6.0'}, 'earlgrey': {'url': 'https://github.com/icon-project/earlgrey', 'revision': 'bbca2974a2604e0a7f33341ed3fe7510bb6f4f90'}, 'iconrpcserver': {'url': 'https://github.com/icon-project/icon-rpc-server', 'revision': '1.4.9'}, 'iconcommons': {'url': 'https://github.com/icon-project/icon-commons', 'revision': 'v1.1.2'}, 'icon_rc': {'url': 'https://github.com/icon-project/rewardcalculator', 'revision': 'v1.2.1'}}|
+|docker_tag|iconloop/prep-node:2001091813x7eba36-dev|
 |description|Testnet for DApps |
-|updated_time|2020-01-21 15:26:41.450|
+|updated_time|2020-02-24 12:03:34.832|
 # zicon (Pagoda) 
-###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (eed9e999a78152e1cd024771c1f914b4) 
+###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (f24935ca0de2fd526a8585a14364b911) 
 |key|value| 
 |-----|-----|
 |network_name|zicon|
@@ -63,5 +72,8 @@ Generated on => 2020-01-21 15:27:01.023<br><br>
 |transaction_fee|on|
 |score_audit|off|
 |switch_bh_versions|{'0.1a': 0, '0.3': 1, '0.4': 1587271, '0.5': 3077345}|
+|package_version|['loopchain-2.5.1', 'iconservice-1.6.0', 'earlgrey-0.0.4', 'iconrpcserver-1.4.9', 'iconcommons-1.1.2', 'icon_rc v1.2.1']|
+|package_info|{'loopchain': {'url': 'https://github.com/icon-project/loopchain', 'revision': '2.5.1'}, 'iconservice': {'url': 'https://github.com/icon-project/icon-service', 'revision': 'v1.6.0'}, 'earlgrey': {'url': 'https://github.com/icon-project/earlgrey', 'revision': 'bbca2974a2604e0a7f33341ed3fe7510bb6f4f90'}, 'iconrpcserver': {'url': 'https://github.com/icon-project/icon-rpc-server', 'revision': '1.4.9'}, 'iconcommons': {'url': 'https://github.com/icon-project/icon-commons', 'revision': 'v1.1.2'}, 'icon_rc': {'url': 'https://github.com/icon-project/rewardcalculator', 'revision': 'v1.2.1'}}|
+|docker_tag|iconloop/prep-node:2001091813x7eba36-dev|
 |description|TestNet for PReps|
-|updated_time|2020-01-21 11:37:25.962|
+|updated_time|2020-02-24 12:03:34.832|
