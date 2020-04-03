@@ -15,40 +15,30 @@
         "0.5": 8882950
     },
     "package_version": [
-        "loopchain-2.5.1",
-        "iconservice-1.6.0",
-        "earlgrey-0.0.4",
+        "loopchain-2.5.2",
+        "iconservice-1.6.1",
         "iconrpcserver-1.4.9",
-        "iconcommons-1.1.2",
         "icon_rc v1.2.1"
     ],
     "package_info": {
         "loopchain": {
             "url": "https://github.com/icon-project/loopchain",
-            "revision": "2.5.1"
+            "revision": "2.5.2"
         },
         "iconservice": {
             "url": "https://github.com/icon-project/icon-service",
-            "revision": "v1.6.0"
-        },
-        "earlgrey": {
-            "url": "https://github.com/icon-project/earlgrey",
-            "revision": "bbca2974a2604e0a7f33341ed3fe7510bb6f4f90"
+            "revision": "1.6.1"
         },
         "iconrpcserver": {
             "url": "https://github.com/icon-project/icon-rpc-server",
             "revision": "1.4.9"
-        },
-        "iconcommons": {
-            "url": "https://github.com/icon-project/icon-commons",
-            "revision": "v1.1.2"
         },
         "icon_rc": {
             "url": "https://github.com/icon-project/rewardcalculator",
             "revision": "v1.2.1"
         }
     },
-    "docker_tag": "iconloop/prep-node:2001091813x7eba36-dev",
+    "docker_tag": "iconloop/prep-node:2004011830xf66922",
     "description": "Testnet for DApps ",
-    "updated_time": "2020-02-24 12:31:48.529"
+    "updated_time": "2020-04-03 02:51:34.654"
 }
