@@ -1,6 +1,6 @@
 # ICON Network info
     Describes information about the ICON network.
-Generated on => 2020-02-24 21:40:35.092<br><br> 
+Generated on => 2020-02-24 12:42:27.768<br><br> 
 # mainnet (mainnet) 
 ###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (758b8cbae8edbab40fe05ccc6adaee92) 
 |key|value| 
