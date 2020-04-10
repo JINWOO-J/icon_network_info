@@ -10,7 +10,7 @@ network_info = [
         "channel": "icon_dex",
         "crep_root_hash": "0xd421ad83f81a31abd7f6813bb6a3b92fa547bdb6d5abc98d2d0852c1a97bcca5",
         "api_endpoint": "https://ctz.solidwallet.io",
-        "tracker": "https://tracker.solidwallet.io",
+        "tracker": "https://tracker.icon.foundation",
         "transaction_fee": "on",
         "score_audit": "on",
         "switch_bh_versions": {
