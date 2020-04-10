@@ -94,16 +94,16 @@ network_info = [
         "network_alias": "Yeouido",
         "nid": "0x3",
         "channel": "icon_dex",
-        "crep_root_hash": "0xde237a62f194477289711818a75c3040f887b5854ea20683a7cde0947c20e436",
+        "crep_root_hash": "0x4e17002ae5d8cdd1b9827b3222e244b7ab8ab6ec8c4420926dd844430e2fa0f4",
         "api_endpoint": "https://bicon.net.solidwallet.io",
         "tracker": "https://bicon.tracker.solidwallet.io",
         "transaction_fee": "on",
         "score_audit": "off",
         "switch_bh_versions": {
             "0.1a": 0,
-            "0.3": 8328000,
-            "0.4": 8328100,
-            "0.5": 8882950
+            "0.3": 1,
+            "0.4": 3400,
+            "0.5": 3500
         },
         "package_version": [
             "loopchain-2.5.2",
