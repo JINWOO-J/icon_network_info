@@ -38,7 +38,7 @@
             "revision": "v1.2.1"
         }
     },
-    "docker_tag": "iconloop/prep-node:2004011830xf66922",
+    "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
     "description": "Testnet for DApps ",
-    "updated_time": "2020-04-10 01:06:32.275"
+    "updated_time": "2020-05-07 02:12:07.106"
 }

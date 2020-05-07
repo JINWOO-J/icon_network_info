@@ -1,8 +1,8 @@
 # ICON Network info
     Describes information about the ICON network.
-Generated on => 2020-04-10 04:55:50.278<br><br> 
+Generated on => 2020-05-07 02:12:17.012<br><br> 
 # mainnet (mainnet) 
-###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (fca7933b04f6da645afe75e791958c6c) 
+###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (2c478890bee86098dc1c32a73e294204) 
 |key|value| 
 |-----|-----|
 |network_name|mainnet|
@@ -17,11 +17,11 @@ Generated on => 2020-04-10 04:55:50.278<br><br>
 |switch_bh_versions|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.1a': 0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.3': 10324749,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.4': 12640761,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.5': 14473622<br>}|
 |package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loopchain-2.5.2,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconservice-1.6.1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconrpcserver-1.4.9,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icon_rc v1.2.1<br>]|
 |package_info|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'loopchain': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/loopchain,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 2.5.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconservice': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-service,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.6.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconrpcserver': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-rpc-server,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.4.9<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon_rc': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/rewardcalculator,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': v1.2.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>}|
-|docker_tag|iconloop/prep-node:2004011830xf66922|
+|docker_tag|iconloop/prep-node:2004011830xf66922-hotfix|
 |description|MainNet |
-|updated_time|2020-04-10 04:55:44.227|
+|updated_time|2020-05-07 02:12:07.106|
 # testnet (Euljiro) 
-###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (cfcedb9765d6bc91f4d78ad0d01ec112) 
+###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (0260d44bab9b037b3797d4ddf793080a) 
 |key|value| 
 |-----|-----|
 |network_name|testnet|
@@ -36,11 +36,11 @@ Generated on => 2020-04-10 04:55:50.278<br><br>
 |switch_bh_versions|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.1a': 0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.3': 1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.4': 10,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.5': 524360<br>}|
 |package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loopchain-2.5.2,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconservice-1.6.1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconrpcserver-1.4.9,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icon_rc v1.2.1<br>]|
 |package_info|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'loopchain': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/loopchain,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 2.5.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconservice': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-service,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.6.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconrpcserver': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-rpc-server,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.4.9<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon_rc': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/rewardcalculator,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': v1.2.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>}|
-|docker_tag|iconloop/prep-node:2004011830xf66922|
+|docker_tag|iconloop/prep-node:2004011830xf66922-hotfix|
 |description|Testnet for Exchanges |
-|updated_time|2020-04-03 02:51:34.654|
+|updated_time|2020-05-07 02:12:07.106|
 # bicon (Yeouido) 
-###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (54ae4cbd0971074286fce59abed0ebbc) 
+###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (71d9c86354dd0d59867187b0acd88a5d) 
 |key|value| 
 |-----|-----|
 |network_name|bicon|
@@ -55,11 +55,11 @@ Generated on => 2020-04-10 04:55:50.278<br><br>
 |switch_bh_versions|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.1a': 0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.3': 1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.4': 3400,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.5': 3500<br>}|
 |package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loopchain-2.5.2,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconservice-1.6.1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconrpcserver-1.4.9,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icon_rc v1.2.1<br>]|
 |package_info|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'loopchain': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/loopchain,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 2.5.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconservice': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-service,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.6.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconrpcserver': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-rpc-server,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.4.9<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon_rc': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/rewardcalculator,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': v1.2.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>}|
-|docker_tag|iconloop/prep-node:2004011830xf66922|
+|docker_tag|iconloop/prep-node:2004011830xf66922-hotfix|
 |description|Testnet for DApps |
-|updated_time|2020-04-10 01:06:32.275|
+|updated_time|2020-05-07 02:12:07.106|
 # zicon (Pagoda) 
-###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (6db4b4a7a7269c9354998dceafb4e461) 
+###### https://networkinfo.solidwallet.io/conf/zicon.json  / md5: (2fcd3a2fe453fa72ea172590edb512fe) 
 |key|value| 
 |-----|-----|
 |network_name|zicon|
@@ -74,6 +74,6 @@ Generated on => 2020-04-10 04:55:50.278<br><br>
 |switch_bh_versions|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.1a': 0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.3': 1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.4': 1587271,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.5': 3077345<br>}|
 |package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loopchain-2.5.2,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconservice-1.6.1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconrpcserver-1.4.9,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icon_rc v1.2.1<br>]|
 |package_info|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'loopchain': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/loopchain,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 2.5.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconservice': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-service,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.6.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconrpcserver': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-rpc-server,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.4.9<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon_rc': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/rewardcalculator,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': v1.2.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>}|
-|docker_tag|iconloop/prep-node:2004011830xf66922|
+|docker_tag|iconloop/prep-node:2004011830xf66922-hotfix|
 |description|TestNet for PReps|
-|updated_time|2020-04-03 02:51:34.654|
+|updated_time|2020-05-07 02:12:07.106|
