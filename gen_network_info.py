@@ -43,7 +43,7 @@ network_info = [
                 "revision": "v1.2.1"
             },
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922",
+        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
         "description": "MainNet "
     },
     {
@@ -86,7 +86,7 @@ network_info = [
                 "revision": "v1.2.1"
             },
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922",
+        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
         "description": "Testnet for Exchanges "
     },
     {
@@ -129,7 +129,7 @@ network_info = [
                 "revision": "v1.2.1"
             },
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922",
+        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
         "description": "Testnet for DApps "
     },
     {
@@ -172,7 +172,7 @@ network_info = [
                 "revision": "v1.2.1"
             },
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922",
+        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
         "description": "TestNet for PReps"
     },
 ]
