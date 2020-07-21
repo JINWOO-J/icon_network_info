@@ -63,19 +63,19 @@ network_info = [
             "0.5": 524360
         },
         "package_version": [
-            "loopchain-2.5.2",
-            "iconservice-1.6.1",
-            "iconrpcserver-1.4.9",
+            "loopchain-2.6.0rc1",
+            "iconservice-1.7.0rc3",
+            "iconrpcserver-1.5.0rc1",
             "icon_rc v1.2.1"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.5.2"
+                "revision": "2.6.0rc1"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.6.1"
+                "revision": "1.7.0rc3"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -106,19 +106,19 @@ network_info = [
             "0.5": 3500
         },
         "package_version": [
-            "loopchain-2.5.2",
-            "iconservice-1.6.1",
-            "iconrpcserver-1.4.9",
+            "loopchain-2.6.0rc1",
+            "iconservice-1.7.0rc3",
+            "iconrpcserver-1.5.0rc1",
             "icon_rc v1.2.1"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.5.2"
+                "revision": "2.6.0rc1"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.6.1"
+                "revision": "1.7.0rc3"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -149,19 +149,19 @@ network_info = [
             "0.5": 3077345
         },
         "package_version": [
-            "loopchain-2.5.2",
-            "iconservice-1.6.1",
-            "iconrpcserver-1.4.9",
+            "loopchain-2.6.0rc1",
+            "iconservice-1.7.0rc3",
+            "iconrpcserver-1.5.0rc1",
             "icon_rc v1.2.1"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.5.2"
+                "revision": "2.6.0rc1"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.6.1"
+                "revision": "1.7.0rc3"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
