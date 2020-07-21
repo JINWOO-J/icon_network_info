@@ -39,9 +39,9 @@
                 "revision": "v1.2.1"
             }
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922",
+        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
         "description": "MainNet ",
-        "updated_time": "2020-04-10 04:55:44.227"
+        "updated_time": "2020-05-07 02:12:07.106"
     },
     {
         "network_name": "testnet",
@@ -83,9 +83,9 @@
                 "revision": "v1.2.1"
             }
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922",
+        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
         "description": "Testnet for Exchanges ",
-        "updated_time": "2020-04-03 02:51:34.654"
+        "updated_time": "2020-05-07 02:12:07.106"
     },
     {
         "network_name": "bicon",
@@ -127,9 +127,9 @@
                 "revision": "v1.2.1"
             }
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922",
+        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
         "description": "Testnet for DApps ",
-        "updated_time": "2020-04-10 01:06:32.275"
+        "updated_time": "2020-05-07 02:12:07.106"
     },
     {
         "network_name": "zicon",
@@ -171,8 +171,8 @@
                 "revision": "v1.2.1"
             }
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922",
+        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
         "description": "TestNet for PReps",
-        "updated_time": "2020-04-03 02:51:34.654"
+        "updated_time": "2020-05-07 02:12:07.106"
     }
 ]
