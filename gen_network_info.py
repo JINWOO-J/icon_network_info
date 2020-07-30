@@ -63,30 +63,30 @@ network_info = [
             "0.5": 524360
         },
         "package_version": [
-            "loopchain-2.6.0rc1",
-            "iconservice-1.7.0rc3",
-            "iconrpcserver-1.5.0rc1",
-            "icon_rc v1.2.1"
+            "loopchain-2.6.0",
+            "iconservice-1.7.1rc1",
+            "iconrpcserver-1.5.0",
+            "icon_rc v1.2.2"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.6.0rc1"
+                "revision": "2.6.0"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.0rc3"
+                "revision": "1.7.1rc1"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
-                "revision": "1.4.9"
+                "revision": "1.5.0"
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.1"
+                "revision": "v1.2.2"
             },
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
+        "docker_tag": "iconloop/prep-node:2007301536x955c24-dev",
         "description": "Testnet for Exchanges "
     },
     {
@@ -106,30 +106,30 @@ network_info = [
             "0.5": 3500
         },
         "package_version": [
-            "loopchain-2.6.0rc1",
-            "iconservice-1.7.0rc3",
-            "iconrpcserver-1.5.0rc1",
-            "icon_rc v1.2.1"
+            "loopchain-2.6.0",
+            "iconservice-1.7.1rc1",
+            "iconrpcserver-1.5.0",
+            "icon_rc v1.2.2"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.6.0rc1"
+                "revision": "2.6.0"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.0rc3"
+                "revision": "1.7.1rc1"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
-                "revision": "1.4.9"
+                "revision": "1.5.0"
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.1"
+                "revision": "v1.2.2"
             },
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
+        "docker_tag": "iconloop/prep-node:2007301536x955c24-dev",
         "description": "Testnet for DApps "
     },
     {
@@ -149,30 +149,30 @@ network_info = [
             "0.5": 3077345
         },
         "package_version": [
-            "loopchain-2.6.0rc1",
-            "iconservice-1.7.0rc3",
-            "iconrpcserver-1.5.0rc1",
-            "icon_rc v1.2.1"
+            "loopchain-2.6.0",
+            "iconservice-1.7.1rc1",
+            "iconrpcserver-1.5.0",
+            "icon_rc v1.2.2"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.6.0rc1"
+                "revision": "2.6.0"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.0rc3"
+                "revision": "1.7.1rc1"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
-                "revision": "1.4.9"
+                "revision": "1.5.0"
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.1"
+                "revision": "v1.2.2"
             },
         },
-        "docker_tag": "iconloop/prep-node:2004011830xf66922-hotfix",
+        "docker_tag": "iconloop/prep-node:2007301536x955c24-dev",
         "description": "TestNet for PReps"
     },
 ]
