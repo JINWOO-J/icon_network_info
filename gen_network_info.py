@@ -137,7 +137,7 @@ network_info = [
         "network_alias": "Pagoda",
         "nid": "0x50",
         "channel": "icon_dex",
-        "crep_root_hash": "0x9718f5d6d6ddb77f547ecc7113c8f1bad1bf46220512fbde356eee74a90ba47c",
+        "crep_root_hash": "0xb7cc19da5bff37a2c4954e16473ab65610a9481f8f864d7ea587c65bff82402f",
         "api_endpoint": "https://zicon.net.solidwallet.io",
         "tracker": "https://zicon.tracker.solidwallet.io",
         "transaction_fee": "on",
@@ -145,8 +145,8 @@ network_info = [
         "switch_bh_versions": {
             "0.1a": 0,
             "0.3": 1,
-            "0.4": 1587271,
-            "0.5": 3077345
+            "0.4": 10,
+            "0.5": 20
         },
         "package_version": [
             "loopchain-2.6.0",
