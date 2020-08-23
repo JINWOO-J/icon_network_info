@@ -32,7 +32,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.3"
+                "revision": "1.7.5"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -40,7 +40,7 @@ network_info = [
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.2"
+                "revision": "1.2.2"
             },
         },
         "docker_tag": "iconloop/prep-node:2008032356xc7087e",
@@ -75,7 +75,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.3"
+                "revision": "1.7.5"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -83,7 +83,7 @@ network_info = [
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.2"
+                "revision": "1.2.2"
             },
         },
         "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
@@ -118,7 +118,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.3"
+                "revision": "1.7.5"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -126,7 +126,7 @@ network_info = [
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.2"
+                "revision": "1.2.2"
             },
         },
         "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
@@ -161,7 +161,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.3"
+                "revision": "1.7.5"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -169,7 +169,7 @@ network_info = [
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.2"
+                "revision": "1.2.2"
             },
         },
         "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
