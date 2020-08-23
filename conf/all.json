@@ -28,7 +28,7 @@
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.3"
+                "revision": "1.7.5"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -36,12 +36,12 @@
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.2"
+                "revision": "1.2.2"
             }
         },
         "docker_tag": "iconloop/prep-node:2008032356xc7087e",
         "description": "MainNet ",
-        "updated_time": "2020-08-10 05:58:40.403"
+        "updated_time": "2020-08-23 14:22:09.070"
     },
     {
         "network_name": "testnet",
@@ -72,7 +72,7 @@
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.3"
+                "revision": "1.7.5"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -80,12 +80,12 @@
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.2"
+                "revision": "1.2.2"
             }
         },
         "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
         "description": "Testnet for Exchanges ",
-        "updated_time": "2020-08-07 01:14:26.146"
+        "updated_time": "2020-08-23 14:22:09.070"
     },
     {
         "network_name": "bicon",
@@ -116,7 +116,7 @@
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.3"
+                "revision": "1.7.5"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -124,12 +124,12 @@
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.2"
+                "revision": "1.2.2"
             }
         },
         "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
         "description": "Testnet for DApps ",
-        "updated_time": "2020-08-07 01:14:26.146"
+        "updated_time": "2020-08-23 14:22:09.070"
     },
     {
         "network_name": "zicon",
@@ -160,7 +160,7 @@
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.3"
+                "revision": "1.7.5"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -168,11 +168,11 @@
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "v1.2.2"
+                "revision": "1.2.2"
             }
         },
         "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
         "description": "TestNet for PReps",
-        "updated_time": "2020-08-07 01:14:26.146"
+        "updated_time": "2020-08-23 14:22:09.070"
     }
 ]
