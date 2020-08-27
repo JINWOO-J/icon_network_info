@@ -64,7 +64,7 @@ network_info = [
         },
         "package_version": [
             "loopchain-2.6.0",
-            "iconservice-1.7.3",
+            "iconservice-1.7.6",
             "iconrpcserver-1.5.0",
             "icon_rc v1.2.2"
         ],
@@ -75,7 +75,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.5"
+                "revision": "1.7.6"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -86,7 +86,7 @@ network_info = [
                 "revision": "1.2.2"
             },
         },
-        "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
+        "docker_tag": "iconloop/prep-node:2008271251x7da45b",
         "description": "Testnet for Exchanges "
     },
     {
@@ -107,7 +107,7 @@ network_info = [
         },
         "package_version": [
             "loopchain-2.6.0",
-            "iconservice-1.7.3",
+            "iconservice-1.7.6",
             "iconrpcserver-1.5.0",
             "icon_rc v1.2.2"
         ],
@@ -118,7 +118,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.5"
+                "revision": "1.7.6"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -129,7 +129,7 @@ network_info = [
                 "revision": "1.2.2"
             },
         },
-        "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
+        "docker_tag": "iconloop/prep-node:2008271251x7da45b",
         "description": "Testnet for DApps "
     },
     {
@@ -150,7 +150,7 @@ network_info = [
         },
         "package_version": [
             "loopchain-2.6.0",
-            "iconservice-1.7.3",
+            "iconservice-1.7.6",
             "iconrpcserver-1.5.0",
             "icon_rc v1.2.2"
         ],
@@ -172,7 +172,7 @@ network_info = [
                 "revision": "1.2.2"
             },
         },
-        "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
+        "docker_tag": "iconloop/prep-node:2008271251x7da45b",
         "description": "TestNet for PReps"
     },
 ]
