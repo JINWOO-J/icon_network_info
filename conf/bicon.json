@@ -16,7 +16,7 @@
     },
     "package_version": [
         "loopchain-2.6.0",
-        "iconservice-1.7.3",
+        "iconservice-1.7.6",
         "iconrpcserver-1.5.0",
         "icon_rc v1.2.2"
     ],
@@ -27,7 +27,7 @@
         },
         "iconservice": {
             "url": "https://github.com/icon-project/icon-service",
-            "revision": "1.7.5"
+            "revision": "1.7.6"
         },
         "iconrpcserver": {
             "url": "https://github.com/icon-project/icon-rpc-server",
@@ -38,7 +38,7 @@
             "revision": "1.2.2"
         }
     },
-    "docker_tag": "iconloop/prep-node:2008032356xc7087e-dev",
+    "docker_tag": "iconloop/prep-node:2008271251x7da45b",
     "description": "Testnet for DApps ",
-    "updated_time": "2020-08-23 14:22:09.070"
+    "updated_time": "2020-08-27 06:26:34.847"
 }

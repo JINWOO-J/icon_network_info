@@ -5,14 +5,14 @@
     },
     {
         "filename": "https://networkinfo.solidwallet.io/conf/testnet.json",
-        "md5_checksum": "12f16b9ea2118487ea5f155f0b9e9edb"
+        "md5_checksum": "380004806c332629b0772e2eb909633a"
     },
     {
         "filename": "https://networkinfo.solidwallet.io/conf/bicon.json",
-        "md5_checksum": "f54b1ea1269173303431c2b66d2c3bba"
+        "md5_checksum": "02be12f82df3aee1bbe4585352c46c7d"
     },
     {
         "filename": "https://networkinfo.solidwallet.io/conf/zicon.json",
-        "md5_checksum": "374cd367d35e38e9b8b3a05d2c075fe7"
+        "md5_checksum": "47fea6d7365bce3ea854ef742cd69c31"
     }
 ]
