@@ -21,8 +21,8 @@ network_info = [
         },
         "package_version": [
             "loopchain-2.6.0",
-            "iconservice-1.7.3",
-            "iconrpcserver-1.5.0",
+            "iconservice-1.7.7",
+            "iconrpcserver-1.5.1",
             "icon_rc v1.2.2"
         ],
         "package_info": {
