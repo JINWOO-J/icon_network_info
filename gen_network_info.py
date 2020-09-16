@@ -32,18 +32,18 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.5"
+                "revision": "1.7.7"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
-                "revision": "1.5.0"
+                "revision": "1.5.1"
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
                 "revision": "1.2.2"
             },
         },
-        "docker_tag": "iconloop/prep-node:2008032356xc7087e",
+        "docker_tag": "iconloop/prep-node:2009031457xdaf395",
         "description": "MainNet "
     },
     {
