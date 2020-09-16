@@ -1,8 +1,8 @@
 # ICON Network info
     Describes information about the ICON network.
-Generated on => 2020-09-16 00:29:01.881<br><br> 
+Generated on => 2020-09-16 00:36:29.922<br><br> 
 # mainnet (mainnet) 
-###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (ce8456232f16b0f19b0723b4e8ea769b) 
+###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (b7bfc9372599d6709f3dc61e90c28b4b) 
 |key|value| 
 |-----|-----|
 |network_name|mainnet|
@@ -15,11 +15,11 @@ Generated on => 2020-09-16 00:29:01.881<br><br>
 |transaction_fee|on|
 |score_audit|on|
 |switch_bh_versions|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.1a': 0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.3': 10324749,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.4': 12640761,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.5': 14473622<br>}|
-|package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loopchain-2.6.0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconservice-1.7.3,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconrpcserver-1.5.0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icon_rc v1.2.2<br>]|
+|package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loopchain-2.6.0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconservice-1.7.7,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconrpcserver-1.5.1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icon_rc v1.2.2<br>]|
 |package_info|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'loopchain': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/loopchain,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 2.6.0<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconservice': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-service,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.7.7<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconrpcserver': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-rpc-server,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.5.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon_rc': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/rewardcalculator,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.2.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>}|
 |docker_tag|iconloop/prep-node:2009031457xdaf395|
 |description|MainNet |
-|updated_time|2020-09-16 00:28:56.405|
+|updated_time|2020-09-16 00:36:23.976|
 # testnet (Euljiro) 
 ###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (fe646301e84dcebdea7755a6cb2682fb) 
 |key|value| 

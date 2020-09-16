@@ -16,8 +16,8 @@
     },
     "package_version": [
         "loopchain-2.6.0",
-        "iconservice-1.7.3",
-        "iconrpcserver-1.5.0",
+        "iconservice-1.7.7",
+        "iconrpcserver-1.5.1",
         "icon_rc v1.2.2"
     ],
     "package_info": {
@@ -40,5 +40,5 @@
     },
     "docker_tag": "iconloop/prep-node:2009031457xdaf395",
     "description": "MainNet ",
-    "updated_time": "2020-09-16 00:28:56.405"
+    "updated_time": "2020-09-16 00:36:23.976"
 }
