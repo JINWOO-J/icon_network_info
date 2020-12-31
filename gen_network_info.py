@@ -63,15 +63,15 @@ network_info = [
             "0.5": 524360
         },
         "package_version": [
-            "loopchain-2.6.0",
-            "iconservice-1.7.7",
-            "iconrpcserver-1.5.1",
-            "icon_rc v1.2.2"
+            "loopchain-2.7.1",
+            "iconservice-1.8.0",
+            "iconrpcserver-1.6.0",
+            "icon_rc v1.2.4"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.6.0"
+                "revision": "2.7.1"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
@@ -79,14 +79,23 @@ network_info = [
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
-                "revision": "1.5.1"
+                "revision": "1.6.0"
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "1.2.2"
+                "revision": "1.2.4"
             },
+            "earlgrey": {
+                "url": "https://github.com/icon-project/earlgrey",
+                "revision": "0.2.2"
+            },
+            "icon-commons": {
+                "url": "https://github.com/icon-project/icon-commons",
+                "revision": "1.1.3"
+            }
+
         },
-        "docker_tag": "iconloop/prep-node:2009031457xdaf395",
+        "docker_tag": "iconloop/prep-node:2020.11.3-dev",
         "description": "Testnet for Exchanges "
     },
     {
@@ -149,15 +158,15 @@ network_info = [
             "0.5": 20
         },
         "package_version": [
-            "loopchain-2.6.0",
-            "iconservice-1.7.7",
-            "iconrpcserver-1.5.1",
-            "icon_rc v1.2.2"
+            "loopchain-2.7.1",
+            "iconservice-1.8.0",
+            "iconrpcserver-1.6.0",
+            "icon_rc v1.2.4"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.6.0"
+                "revision": "2.7.1"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
@@ -165,14 +174,22 @@ network_info = [
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
-                "revision": "1.5.1"
+                "revision": "1.6.0"
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "1.2.2"
+                "revision": "1.2.4"
             },
+            "earlgrey": {
+                "url": "https://github.com/icon-project/earlgrey",
+                "revision": "0.2.2"
+            },
+            "icon-commons": {
+                "url": "https://github.com/icon-project/icon-commons",
+                "revision": "1.1.3"
+            }
         },
-        "docker_tag": "iconloop/prep-node:2009031457xdaf395",
+        "docker_tag": "iconloop/prep-node:2020.11.3-dev",
         "description": "TestNet for PReps"
     },
 ]
