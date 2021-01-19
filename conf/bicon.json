@@ -27,7 +27,7 @@
         },
         "iconservice": {
             "url": "https://github.com/icon-project/icon-service",
-            "revision": "1.7.7"
+            "revision": "1.8.1"
         },
         "iconrpcserver": {
             "url": "https://github.com/icon-project/icon-rpc-server",
@@ -48,5 +48,5 @@
     },
     "docker_tag": "iconloop/prep-node:2020.11.7-dev",
     "description": "Testnet for DApps ",
-    "updated_time": "2021-01-19 07:08:32.696"
+    "updated_time": "2021-01-19 07:14:37.259"
 }
