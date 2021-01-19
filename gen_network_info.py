@@ -75,7 +75,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.7"
+                "revision": "1.8.1"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -127,7 +127,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.7"
+                "revision": "1.8.1"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -179,7 +179,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.7"
+                "revision": "1.8.1"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
