@@ -95,7 +95,7 @@ network_info = [
             }
 
         },
-        "docker_tag": "iconloop/prep-node:2020.11.10-dev",
+        "docker_tag": "iconloop/prep-node:2020.11.12-dev",
         "description": "Testnet for Exchanges "
     },
     {
@@ -167,7 +167,7 @@ network_info = [
             "0.5": 20
         },
         "package_version": [
-            "loopchain-2.7.6",
+            "loopchain-2.7.7",
             "iconservice-1.8.2",
             "iconrpcserver-1.6.0",
             "icon_rc v1.2.5"
@@ -175,7 +175,7 @@ network_info = [
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.7.6"
+                "revision": "2.7.7"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
@@ -198,7 +198,7 @@ network_info = [
                 "revision": "1.1.3"
             }
         },
-        "docker_tag": "iconloop/prep-node:2020.11.9-dev",
+        "docker_tag": "iconloop/prep-node:2020.11.12-dev",
         "description": "TestNet for PReps"
     },
 ]
