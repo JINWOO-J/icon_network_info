@@ -1,6 +1,6 @@
 # ICON Network info
     Describes information about the ICON network.
-Generated on => 2021-01-25 09:25:27.743<br><br> 
+Generated on => 2021-01-29 05:10:18.315<br><br> 
 # mainnet (mainnet) 
 ###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (b7bfc9372599d6709f3dc61e90c28b4b) 
 |key|value| 
@@ -21,7 +21,7 @@ Generated on => 2021-01-25 09:25:27.743<br><br>
 |description|MainNet |
 |updated_time|2020-09-16 00:36:23.976|
 # testnet (Euljiro) 
-###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (5b540729a8d32feb410c24974642253f) 
+###### https://networkinfo.solidwallet.io/conf/testnet.json  / md5: (022036be274dd92cd02199a233a116c5) 
 |key|value| 
 |-----|-----|
 |network_name|testnet|
@@ -34,11 +34,11 @@ Generated on => 2021-01-25 09:25:27.743<br><br>
 |transaction_fee|on|
 |score_audit|on|
 |switch_bh_versions|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.1a': 0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.3': 1,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.4': 10,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'0.5': 524360<br>}|
-|package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loopchain-2.7.6,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconservice-1.8.2,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconrpcserver-1.6.0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icon_rc v1.2.5<br>]|
-|package_info|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'loopchain': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/loopchain,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 2.7.6<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconservice': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-service,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.8.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconrpcserver': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-rpc-server,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.6.0<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon_rc': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/rewardcalculator,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.2.5<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'earlgrey': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/earlgrey,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 0.2.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon-commons': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-commons,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.1.3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>}|
-|docker_tag|iconloop/prep-node:2020.11.9-dev|
+|package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loopchain-2.7.7,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconservice-1.8.2,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iconrpcserver-1.6.0,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icon_rc v1.2.5<br>]|
+|package_info|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'loopchain': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/loopchain,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 2.7.7<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconservice': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-service,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.8.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'iconrpcserver': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-rpc-server,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.6.0<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon_rc': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/rewardcalculator,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.2.5<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'earlgrey': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/earlgrey,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 0.2.2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'icon-commons': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/icon-commons,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': 1.1.3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>}|
+|docker_tag|iconloop/prep-node:2020.11.10-dev|
 |description|Testnet for Exchanges |
-|updated_time|2021-01-25 09:25:21.087|
+|updated_time|2021-01-29 05:10:13.000|
 # bicon (Yeouido) 
 ###### https://networkinfo.solidwallet.io/conf/bicon.json  / md5: (aab08eed32f64069bd9a90ab7cc8eb69) 
 |key|value| 
