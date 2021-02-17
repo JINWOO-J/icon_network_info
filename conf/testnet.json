@@ -15,19 +15,19 @@
         "0.5": 524360
     },
     "package_version": [
-        "loopchain-2.7.7",
-        "iconservice-1.8.2",
+        "loopchain-2.7.8",
+        "iconservice-1.8.4",
         "iconrpcserver-1.6.0",
         "icon_rc v1.2.5"
     ],
     "package_info": {
         "loopchain": {
             "url": "https://github.com/icon-project/loopchain",
-            "revision": "2.7.7"
+            "revision": "2.7.8"
         },
         "iconservice": {
             "url": "https://github.com/icon-project/icon-service",
-            "revision": "1.8.2"
+            "revision": "1.8.4"
         },
         "iconrpcserver": {
             "url": "https://github.com/icon-project/icon-rpc-server",
@@ -46,7 +46,7 @@
             "revision": "1.1.3"
         }
     },
-    "docker_tag": "iconloop/prep-node:2020.11.12-dev",
+    "docker_tag": "iconloop/prep-node:2020.11.13",
     "description": "Testnet for Exchanges ",
-    "updated_time": "2021-01-29 07:52:38.313"
+    "updated_time": "2021-02-17 07:40:10.494"
 }
