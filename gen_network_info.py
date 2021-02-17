@@ -20,30 +20,38 @@ network_info = [
             "0.5": 14473622
         },
         "package_version": [
-            "loopchain-2.6.0",
-            "iconservice-1.7.7",
-            "iconrpcserver-1.5.1",
-            "icon_rc v1.2.2"
+            "loopchain-2.7.8",
+            "iconservice-1.8.4",
+            "iconrpcserver-1.6.0",
+            "icon_rc v1.2.5"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.6.0"
+                "revision": "2.7.8"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.7.7"
+                "revision": "1.8.4"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
-                "revision": "1.5.1"
+                "revision": "1.6.0"
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "1.2.2"
+                "revision": "1.2.5"
             },
+            "earlgrey": {
+                "url": "https://github.com/icon-project/earlgrey",
+                "revision": "0.2.2"
+            },
+            "icon-commons": {
+                "url": "https://github.com/icon-project/icon-commons",
+                "revision": "1.1.3"
+            }
         },
-        "docker_tag": "iconloop/prep-node:2009031457xdaf395",
+        "docker_tag": "iconloop/prep-node:2020.11.13",
         "description": "MainNet "
     },
     {
@@ -63,19 +71,19 @@ network_info = [
             "0.5": 524360
         },
         "package_version": [
-            "loopchain-2.7.7",
-            "iconservice-1.8.2",
+            "loopchain-2.7.8",
+            "iconservice-1.8.4",
             "iconrpcserver-1.6.0",
             "icon_rc v1.2.5"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.7.7"
+                "revision": "2.7.8"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.8.2"
+                "revision": "1.8.4"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -93,9 +101,8 @@ network_info = [
                 "url": "https://github.com/icon-project/icon-commons",
                 "revision": "1.1.3"
             }
-
         },
-        "docker_tag": "iconloop/prep-node:2020.11.12-dev",
+        "docker_tag": "iconloop/prep-node:2020.11.13",
         "description": "Testnet for Exchanges "
     },
     {
@@ -115,19 +122,19 @@ network_info = [
             "0.5": 3500
         },
         "package_version": [
-            "loopchain-2.7.5",
-            "iconservice-1.8.1",
+            "loopchain-2.7.8",
+            "iconservice-1.8.4",
             "iconrpcserver-1.6.0",
-            "icon_rc v1.2.4"
+            "icon_rc v1.2.5"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.7.5"
+                "revision": "2.7.8"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.8.1"
+                "revision": "1.8.4"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -147,7 +154,7 @@ network_info = [
             }
 
         },
-        "docker_tag": "iconloop/prep-node:2020.11.7-dev",
+        "docker_tag": "iconloop/prep-node:2020.11.13",
         "description": "Testnet for DApps "
     },
     {
@@ -167,19 +174,19 @@ network_info = [
             "0.5": 20
         },
         "package_version": [
-            "loopchain-2.7.7",
-            "iconservice-1.8.2",
+            "loopchain-2.7.8",
+            "iconservice-1.8.4",
             "iconrpcserver-1.6.0",
             "icon_rc v1.2.5"
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/loopchain",
-                "revision": "2.7.7"
+                "revision": "2.7.8"
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.8.2"
+                "revision": "1.8.4"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -198,7 +205,7 @@ network_info = [
                 "revision": "1.1.3"
             }
         },
-        "docker_tag": "iconloop/prep-node:2020.11.12-dev",
+        "docker_tag": "iconloop/prep-node:2020.11.13",
         "description": "TestNet for PReps"
     },
 ]
