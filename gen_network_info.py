@@ -21,9 +21,9 @@ network_info = [
         },
         "package_version": [
             "loopchain-2.7.8",
-            "iconservice-1.8.4",
+            "iconservice-1.8.9",
             "iconrpcserver-1.6.0",
-            "icon_rc v1.2.5"
+            "icon_rc v1.2.6"
         ],
         "package_info": {
             "loopchain" : {
@@ -32,7 +32,7 @@ network_info = [
             },
             "iconservice": {
                 "url": "https://github.com/icon-project/icon-service",
-                "revision": "1.8.4"
+                "revision": "1.8.9"
             },
             "iconrpcserver": {
                 "url": "https://github.com/icon-project/icon-rpc-server",
@@ -40,7 +40,7 @@ network_info = [
             },
             "icon_rc": {
                 "url": "https://github.com/icon-project/rewardcalculator",
-                "revision": "1.2.5"
+                "revision": "1.2.6"
             },
             "earlgrey": {
                 "url": "https://github.com/icon-project/earlgrey",
@@ -51,7 +51,7 @@ network_info = [
                 "revision": "1.1.3"
             }
         },
-        "docker_tag": "iconloop/prep-node:2020.11.13",
+        "docker_tag": "iconloop/prep-node:20210225-2",
         "description": "MainNet "
     },
     {
