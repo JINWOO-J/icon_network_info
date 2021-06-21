@@ -208,6 +208,31 @@ network_info = [
         "docker_tag": "iconloop/prep-node:20210225-2-dev",
         "description": "TestNet for PReps"
     },
+    {
+        "network_name": "sejong",
+        "network_alias": "sejong",
+        "nid": "0x53",
+        "channel": "icon_dex",
+        "cid": "0xd867cd",
+        "crep_root_hash": "",
+        "api_endpoint": "https://sejong.net.solidwallet.io",
+        "tracker": "https://sejong.tracker.solidwallet.io",
+        "transaction_fee": "on",
+        "score_audit": "off",
+        "switch_bh_versions": {
+        },
+        "package_version": [
+            "goloop-v0.9.6",
+        ],
+        "package_info": {
+            "loopchain" : {
+                "url": "https://github.com/icon-project/loopchain",
+                "revision": "v0.9.6"
+            },
+        },
+        "docker_tag": "iconloop/goloop:v0.9.6",
+        "description": "AlphaNet"
+    },
 ]
 
 
