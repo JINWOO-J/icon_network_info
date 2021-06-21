@@ -224,12 +224,12 @@
         ],
         "package_info": {
             "loopchain": {
-                "url": "https://github.com/icon-project/loopchain",
+                "url": "https://github.com/icon-project/goloop",
                 "revision": "v0.9.6"
             }
         },
         "docker_tag": "iconloop/goloop:v0.9.6",
         "description": "AlphaNet",
-        "updated_time": "2021-06-21 07:08:27.641"
+        "updated_time": "2021-06-21 10:27:35.182"
     }
 ]
