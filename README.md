@@ -1,6 +1,6 @@
 # ICON Network info
     Describes information about the ICON network.
-Generated on => 2021-03-08 03:56:39.908<br><br> 
+Generated on => 2021-06-21 07:08:33.639<br><br> 
 # mainnet (mainnet) 
 ###### https://networkinfo.solidwallet.io/conf/mainnet.json  / md5: (ae382d0a611b49b21ecdd75e62c30d43) 
 |key|value| 
@@ -77,3 +77,23 @@ Generated on => 2021-03-08 03:56:39.908<br><br>
 |docker_tag|iconloop/prep-node:20210225-2-dev|
 |description|TestNet for PReps|
 |updated_time|2021-03-02 05:53:06.389|
+# sejong (sejong) 
+###### https://networkinfo.solidwallet.io/conf/sejong.json  / md5: (30f1c7d7c757fbc662b8b5029cdcbc8d) 
+|key|value| 
+|-----|-----|
+|network_name|sejong|
+|network_alias|sejong|
+|nid|0x53|
+|channel|icon_dex|
+|cid|0xd867cd|
+|crep_root_hash||
+|api_endpoint|https://sejong.net.solidwallet.io|
+|tracker|https://sejong.tracker.solidwallet.io|
+|transaction_fee|on|
+|score_audit|off|
+|switch_bh_versions|{<br>}|
+|package_version|[<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goloop-v0.9.6<br>]|
+|package_info|{<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'loopchain': {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'url': https://github.com/icon-project/loopchain,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'revision': v0.9.6<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>}|
+|docker_tag|iconloop/goloop:v0.9.6|
+|description|AlphaNet|
+|updated_time|2021-06-21 07:08:27.641|

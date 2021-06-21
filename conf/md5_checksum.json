@@ -14,5 +14,9 @@
     {
         "filename": "https://networkinfo.solidwallet.io/conf/zicon.json",
         "md5_checksum": "6739b9ff1d4acc3f7412b5a6677afc06"
+    },
+    {
+        "filename": "https://networkinfo.solidwallet.io/conf/sejong.json",
+        "md5_checksum": "30f1c7d7c757fbc662b8b5029cdcbc8d"
     }
 ]
