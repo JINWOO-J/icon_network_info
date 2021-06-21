@@ -226,7 +226,7 @@ network_info = [
         ],
         "package_info": {
             "loopchain" : {
-                "url": "https://github.com/icon-project/loopchain",
+                "url": "https://github.com/icon-project/goloop",
                 "revision": "v0.9.6"
             },
         },
