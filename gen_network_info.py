@@ -213,7 +213,7 @@ network_info = [
         "network_alias": "sejong",
         "nid": "0x53",
         "channel": "icon_dex",
-        "cid": "0xd867cd",
+        "cid": "0x36372c",
         "crep_root_hash": "",
         "api_endpoint": "https://sejong.net.solidwallet.io",
         "tracker": "https://sejong.tracker.solidwallet.io",
@@ -222,15 +222,15 @@ network_info = [
         "switch_bh_versions": {
         },
         "package_version": [
-            "goloop-v0.9.6",
+            "v0.9.7",
         ],
         "package_info": {
             "loopchain" : {
                 "url": "https://github.com/icon-project/goloop",
-                "revision": "v0.9.6"
+                "revision": "v0.9.7"
             },
         },
-        "docker_tag": "iconloop/goloop:v0.9.6",
+        "docker_tag": "iconloop/goloop:v0.9.7",
         "description": "AlphaNet"
     },
 ]
